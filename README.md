@@ -9,9 +9,9 @@
 </p>
 
 <div align="center">
-  <a href="C:\Users\User\Downloads\java\Saken_Dinmukhammed_.pdf">
-    <img src="C:\Users\User\Downloads\java\Saken_Dinmukhammed_.pdf" alt="Resume"/>
-  </a>
+ 
+  </a> <a href="Saken_Dinmukhammed_.pdf">
+    <img src="https://img.shields.io/badge/Resume-PDF-red?logo=adobe-acrobat-reader" alt="Resume"/>
 </div>
 <hr/>
 
