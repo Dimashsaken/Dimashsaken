@@ -1,5 +1,5 @@
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=l9kk&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Dimashsaken&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Dima</h1>
@@ -41,7 +41,7 @@
 <img src="https://skillicons.dev/icons?i=python,javascript,cpp,react,typescript,sql" alt="Programming languages" />
 
 <h4>Frameworks and tools</h4>
-<img src="https://skillicons.dev/icons?i=bash,git,aws,vercel,numpy,pandas" alt="Languages & Frameworks" />
+<img src="https://skillicons.dev/icons?i=bash,git,aws,vercel" alt="Languages & Frameworks" />
 
 <h4>Databases and APIs</h4>
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase" alt="Databases & APIs" />
@@ -50,4 +50,25 @@
 
 ---
 
+---
+
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dimashsaken&theme=2077" alt="Stats Card" width="320"/>
+</div>
+
+---
+
 - 📫 How to reach me: ...
+
+<div align="center">
+  <a href="https://t.me/opasyan">
+    <img src="https://img.shields.io/badge/Telegram-@weaverrrr-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="mailto:dimashsakennnn@gmail.com">
+    <img src="https://img.shields.io/badge/Email-askhat.ss23%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="www.linkedin.com/in/dinmukhammed-saken">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
