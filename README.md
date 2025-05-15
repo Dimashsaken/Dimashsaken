@@ -38,7 +38,7 @@
 
 <div align="center">
 <h4>Programming languages</h4>
-<img src="https://skillicons.dev/icons?i=python,javascript,cpp,react,typescript,sql" alt="Programming languages" />
+<img src="https://skillicons.dev/icons?i=python,javascript,cpp,react,typescript" alt="Programming languages" />
 
 <h4>Frameworks and tools</h4>
 <img src="https://skillicons.dev/icons?i=bash,git,aws,vercel" alt="Languages & Frameworks" />
@@ -63,10 +63,10 @@
 
 <div align="center">
   <a href="https://t.me/opasyan">
-    <img src="https://img.shields.io/badge/Telegram-@weaverrrr-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+    <img src="https://img.shields.io/badge/Telegram-@opasyan-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   <a href="mailto:dimashsakennnn@gmail.com">
-    <img src="https://img.shields.io/badge/Email-askhat.ss23%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-dimashsakennnn%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="www.linkedin.com/in/dinmukhammed-saken">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
