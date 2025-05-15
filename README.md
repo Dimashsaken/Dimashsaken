@@ -36,19 +36,14 @@
 ### 💎 Technical Skills
 <div align="center">
   <h4>Programming languages</h4>
-  <img src="https://skillicons.dev/icons?i=python,javascript,c++,react, react native,typescript,sql" alt="Programming languages" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,cpp,react,typescript,sql" alt="Programming languages" />
 
   <h4>Frameworks and tools</h4>
-  <img src="https://skillicons.dev/icons?i=bash,expo,java,SQL" alt="Languages & Frameworks" />
+  <img src="https://skillicons.dev/icons?i=bash,expo,git,aws,vercel,numpy,pandas" alt="Languages & Frameworks" />
 
-  <h4>Databases</h4>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" alt="Databases & Tools" />
-  
-  <h4>Web Technologies</h4>
-  <img src="https://skillicons.dev/icons?i=html,css,js" alt="Web Technologies" />
+  <h4>Databases and APIs</h4>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,superbase,restfulapi,fastapi" alt="Databases & APIs" />
 </div>
-
-
 
 ---
 
