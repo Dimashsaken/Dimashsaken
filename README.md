@@ -1,16 +1,37 @@
-## Hi there 👋
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=l9kk&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-<!--
-**Dimashsaken/Dimashsaken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Dima</h1>
+<h3 align="center">Junior Software Engineer & 2nd-year Student at CityUHK</h3>
+<p align="center">
+  <em>“Programming isn’t about what you know; it’s about what you can figure out.”</em>
+</p>
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://drive.google.com/file/d/14MdtGCEiI3u4yZQV4ls__LxJYm8ns3UG/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Resume-View%20CV-2ea44f?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
+  </a>
+</div>
+<hr/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+### 👨‍💻 About Me
+<table>
+  <tr>
+    <td width="70%">
+      <ul>
+        <li>🌱 <strong>Currently Learning:</strong> AWS lambda, React native</li>
+        <li>💼 <strong>Interests:</strong> Mobile apps, Web apps, Full-stack development</li>
+        <li>🎯 <strong>Goal:</strong> Building software that impacts the world</li>
+      </ul>
+    </td>
+    <td width="30%" align="center">
+      <img width="100%" src="https://infowithart.com/wp-content/uploads/2019/01/Cover-image.gif" alt="Coding GIF" style="border-radius:10px;"/>
+    </td>
+  </tr>
+</table>
+
+
+
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
