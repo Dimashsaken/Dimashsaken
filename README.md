@@ -16,6 +16,7 @@
 <hr/>
 
 ### 👨‍💻 About Me
+
 <table>
   <tr>
     <td width="70%">
@@ -34,20 +35,19 @@
 ---
 
 ### 💎 Technical Skills
+
 <div align="center">
-  <h4>Programming languages</h4>
-  <img src="https://skillicons.dev/icons?i=python,javascript,cpp,react,typescript,sql" alt="Programming languages" />
+<h4>Programming languages</h4>
+<img src="https://skillicons.dev/icons?i=python,javascript,cpp,react,typescript,sql" alt="Programming languages" />
 
-  <h4>Frameworks and tools</h4>
-  <img src="https://skillicons.dev/icons?i=bash,expo,git,aws,vercel,numpy,pandas" alt="Languages & Frameworks" />
+<h4>Frameworks and tools</h4>
+<img src="https://skillicons.dev/icons?i=bash,expo,git,aws,vercel,numpy,pandas" alt="Languages & Frameworks" />
 
-  <h4>Databases and APIs</h4>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,superbase,restfulapi,fastapi" alt="Databases & APIs" />
+<h4>Databases and APIs</h4>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase" alt="Databases & APIs" />
+</div>
 </div>
 
 ---
 
-
-
 - 📫 How to reach me: ...
-
