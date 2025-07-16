@@ -10,7 +10,7 @@
 
 <div align="center">
  
-  </a> <a href="Saken_Dimash_CV.pdf">
+  </a> <a href="Saken-Dimash-CV.pdf">
     <img src="https://img.shields.io/badge/Resume-PDF-red?logo=adobe-acrobat-reader" alt="Resume"/>
 </div>
 <hr/>
@@ -21,7 +21,7 @@
   <tr>
     <td width="70%">
       <ul>
-        <li>🌱 <strong>Currently Learning:</strong> AWS lambda, React native</li>
+        <li>🌱 <strong>Currently Learning:</strong> AI & ML and Python</li>
         <li>💼 <strong>Interests:</strong> Mobile apps, Web apps, Full-stack development</li>
         <li>🎯 <strong>Goal:</strong> Building software that impacts the world</li>
       </ul>
@@ -46,15 +46,6 @@
 <h4>Databases and APIs</h4>
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase" alt="Databases & APIs" />
 </div>
-</div>
-
----
-
----
-
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dimashsaken&theme=2077" alt="Stats Card" width="320"/>
 </div>
 
 ---
