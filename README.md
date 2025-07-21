@@ -59,7 +59,7 @@
   <a href="mailto:dimashsakennnn@gmail.com">
     <img src="https://img.shields.io/badge/Email-dimashsakennnn%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="www.linkedin.com/in/dinmukhammed-saken">
+  <a href="https://www.linkedin.com/in/dinmukhammed-saken">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
