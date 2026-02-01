@@ -10,7 +10,7 @@
 
 <div align="center">
  
-  </a> <a href="Dimash Saken CV.pdf">
+  </a> <a href="Saken Dinmukhammed CV.pdf">
     <img src="https://img.shields.io/badge/Resume-PDF-red?logo=adobe-acrobat-reader" alt="Resume"/>
 </div>
 <hr/>
