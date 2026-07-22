@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Dima</h1>
-<h3 align="center">Junior Software Engineer & 2nd-year Student at CityUHK</h3>
+<h3 align="center">Junior Software Engineer & 3rd-year Student at CityUHK</h3>
 <p align="center">
   <em>“Programming isn’t about what you know; it’s about what you can figure out.”</em>
 </p>
